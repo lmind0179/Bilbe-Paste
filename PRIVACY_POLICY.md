@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective date:** August 27, 2025
+**Effective date:** September 5, 2025
 
 ## 1. Introduction
 
@@ -15,7 +15,7 @@ Bible Paste (“the App”) respects your privacy and does not collect any perso
 ## 3. Data Security
 
 - Since no personal information is stored or transmitted, there are no associated data security risks.
-- All processing occurs offline within the App sandbox environment.
+- All processing occurs offline within the App's sandbox environment.
 
 ## 4. Third-Party Services
 
@@ -23,10 +23,9 @@ Bible Paste (“the App”) respects your privacy and does not collect any perso
 
 ## 5. Changes to This Privacy Policy
 
-- This Privacy Policy may be updated occasionally.  
-- Users will be notified through updates to this document on the project repository.
+- This Privacy Policy may be updated occasionally. We will notify you of any changes by posting the new Privacy Policy on this page and/or on the App's App Store page.
 
 ## 6. Contact Us
 
-For any questions about this Privacy Policy, contact:  
+For any questions about this Privacy Policy, contact:
 lmind0179@gmail.com
